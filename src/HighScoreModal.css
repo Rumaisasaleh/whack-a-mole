@@ -1,0 +1,20 @@
+
+.modal-title {
+  font-size: 2em; /* Increase size for emphasis */
+  color: #FF4500; /* OrangeRed for a vibrant title */
+  text-align: center; 
+  font-weight: bold; 
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* More pronounced shadow for depth */
+  font-family: 'Comic Sans MS', cursive; /* Fun font style for a playful touch */
+}
+
+.score-text {
+  font-size: 1.5em; /* Slightly larger score text */
+  color: #4CAF50; /* Green color for score text */
+  text-align: center;
+  margin: 10px 0; /* Spacing above and below the score */
+}
+
+.modal-body {
+  text-align: center; /* Center align the body text */
+}
